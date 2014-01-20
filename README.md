@@ -2,6 +2,7 @@
 
 Simple demo illustrating pub/sub pattern using [MQTT](http://mqtt.org/) protocol implemented in [mosquitto](http://mosquitto.org/) broker.
 
+> Requires mosquitto, an open source message broker that implements the MQ Telemetry Transport protocol version 3.1
 
 ## Start mosquitto
 
